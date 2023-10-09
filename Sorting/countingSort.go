@@ -43,7 +43,7 @@ func countSort(arr []int) []int {
 	return result
 }
 
-func sort() {
+func CountSortMain() {
 	var n = []int{1, 39, 2, 9, 7, 54, 11}
 
 	fmt.Println(countSort(n))

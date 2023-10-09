@@ -2,7 +2,7 @@ package sorting
 
 import "fmt"
 
-func bubbleSort() {
+func BubbleSort() {
 	var n = []int{1, 39, 2, 9, 7, 54, 11}
 
 	var isDone = false
