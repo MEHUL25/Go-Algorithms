@@ -2,7 +2,7 @@ package sorting
 
 import "fmt"
 
-func insertionSort() {
+func InsertionSort() {
 	var n = []int{1, 39, 2, 9, 7, 54, 11}
 
 	var i = 1
